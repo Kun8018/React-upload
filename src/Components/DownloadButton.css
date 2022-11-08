@@ -1,0 +1,10 @@
+.downloadButton {
+    width: 200px;
+    height: 250px;
+    background-color: blue;
+    line-height: 250px;
+}
+
+.disabled {
+    color: gray;
+}
